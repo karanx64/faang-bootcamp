@@ -4,12 +4,12 @@
 
 **Goal:** Build strong logic and JS fundamentals.
 
-| Week | Focus | Topics | Deliverables |
-|:--|:--|:--|:--|
-| **1** | JS Refresher + Patterns | loops, conditionals, arrays, nested loops | 20 pattern programs, 5 mini JS problems |
-| **2** | DSA Core: Arrays + Strings | iteration, manipulation, dry run | 15 LeetCode easy, 5 RoadsideCoder vids |
-| **3** | JS Deep Dive | functions, closures, callbacks, promises | implement debounce, throttle, custom map/filter |
-| **4** | DSA: Recursion + Sorting | recursion logic, bubble/insertion/merge sort | solve 25 recursion/sorting questions |
+| Week  | Focus                                                   | Topics                                       | Deliverables                                    |
+|:------|:--------------------------------------------------------|:---------------------------------------------|:------------------------------------------------|
+| **1** | JS Refresher + Patterns                                 | loops, conditionals, arrays, nested loops    | 20 pattern programs, 5 mini JS problems         |
+| **2** | DSA Core: Arrays + Strings                              | iteration, manipulation, dry run             | 15 LeetCode easy, 5 RoadsideCoder vids          |
+| **3** | JS Deep Dive                                            | functions, closures, callbacks, promises     | implement debounce, throttle, custom map/filter |
+| **4** | DSA: Recursion + Sorting                                | recursion logic, bubble/insertion/merge sort | solve 25 recursion/sorting questions            |
 
 🧰 **Tools Week 4**  
 → Learn **Git CLI**, GitHub basics, commit/push/pull/branch  
