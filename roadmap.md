@@ -16,6 +16,7 @@
 → Start Linux command drills (ls, cd, grep, chmod, etc.)  
 → Daily pattern/problem-solving challenge (2–3 problems/day)
 
+
 ---
 
 ## ⚙️ Month 2: DSA (Intermediate) + React + Node Foundations
